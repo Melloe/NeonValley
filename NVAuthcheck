@@ -1,2 +1,5 @@
 
 $gameVersion = $_GET["gameVersion"];
+
+$json = json_encode&#40;$login_info&#41;;
+echo $json;
