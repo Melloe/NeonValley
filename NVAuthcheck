@@ -1,0 +1,2 @@
+
+$gameVersion = $_GET["gameVersion"];
